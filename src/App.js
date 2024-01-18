@@ -9,7 +9,7 @@ import meme from "./assets/meme.png";
 function App() {
   return (
     <div className="App">
-      <ReactAudioPlayer src={parabensaudio} autoPlay={true} />
+      <audio src={parabensaudio} autoPlay={true} />
       <div className="video">
         <div>
           <video
