@@ -9,7 +9,7 @@ import meme from "./assets/meme.png";
 function App() {
   return (
     <div className="App">
-      <audio src={parabensaudio} autoPlay={true} />
+      <audio src={parabensaudio} autoPlay={true} playsinline />
       <div className="video">
         <div>
           <video
@@ -18,6 +18,8 @@ function App() {
             width="100%"
             height="100%"
             muted
+            playsinline
+            loop
             style={{
               position: "absolute",
             }}
