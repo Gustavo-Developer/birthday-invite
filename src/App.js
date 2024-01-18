@@ -31,12 +31,13 @@ function App() {
           >
             <div>
               <img
+                className="image"
                 src={meme}
                 alt="Meme"
                 style={{ width: "100px", height: "auto" }}
               />
 
-              <p>REPI BARDEI TIU IU</p>
+              <p style={{ marginTop: "100px" }}>REPI BARDEI TIU IU</p>
 
               <div>
                 <p>ANANDA</p>
