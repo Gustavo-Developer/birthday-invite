@@ -22,6 +22,7 @@ function App() {
     <>
       <div className={isActive ? "d-none" : null}>
         <div className="invite">
+          🎂
           <p>Voce recebeu um convite muito especial</p>
           <button onClick={toggleClass}>Ver Convite</button>
         </div>
