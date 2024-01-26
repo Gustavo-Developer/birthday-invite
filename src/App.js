@@ -45,6 +45,10 @@ function App() {
           loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"
         />
+
+        <p style={{ fontSize: "22px",textAlign: "center" }}>Bebibas deveram ser adquiridas no Local</p>
+        <p style={{ fontSize: "22px",textAlign: "center" }}>Contamos com você ❤️ </p>
+
       </div>
     </div>
   );
