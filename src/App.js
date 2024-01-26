@@ -1,16 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
-import ReactAudioPlayer from "react-audio-player";
 
-import parabensvideo from "./assets/parabens.mp4";
-import parabensaudio from "./assets/parabens-audio.mp3";
 import meme from "./assets/meme.png";
 
 function App() {
   return (
     <div className="App">
-      <audio src={parabensaudio} autoPlay={true} playsinline />
-
       <div className="gradient-border content" id="box">
         <img
           className="image"
@@ -26,7 +21,9 @@ function App() {
             alignItems: "center",
           }}
         >
-          <p style={{ marginTop: "20px" }}>REPI BARDEI TIU IU</p>
+          <p style={{ marginTop: "20px", textAlign: "center" }}>
+            REPI BARDEI TIU IU
+          </p>
           <p style={{ margin: "0" }}>ANANDA</p>
           <p style={{ color: "#C0392B", margin: "10px", fontWeight: "bold" }}>
             21 ANOS
