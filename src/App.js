@@ -21,15 +21,13 @@ function App() {
             alignItems: "center",
           }}
         >
-          <p style={{ marginTop: "20px", textAlign: "center" }}>
-            REPI BARDEI TIU IU
-          </p>
+          <p style={{ marginTop: "20px", textAlign: "center" }}>PARABÉNNNNS</p>
           <p style={{ margin: "0" }}>ANANDA</p>
           <p style={{ color: "#C0392B", margin: "10px", fontWeight: "bold" }}>
             21 ANOS
           </p>
         </div>
-        <p style={{ fontSize: "22px" }}>Sabado, 3 de Fevereiro as 18H</p>
+        <p style={{ fontSize: "22px" }}>Sábado, 3 de Fevereiro as 18H</p>
         <p
           style={{
             textDecoration: "underline",
