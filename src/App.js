@@ -33,6 +33,7 @@ function App() {
             textDecoration: "underline",
             fontSize: "22px",
             textAlign: "center",
+            margin: "10px" 
           }}
         >
           Rua Agostinho de Andrade, N.57 - JD. Vera Cruz
