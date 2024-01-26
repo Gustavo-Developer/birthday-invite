@@ -40,7 +40,7 @@ function App() {
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.6823976942096!2d-46.47306372391274!3d-23.61572076359303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce688f9d0d5d0b%3A0xfe2c9e4adf008b36!2sR.%20Agostinho%20de%20Andrade%2C%20N%C2%B057%20-%20Jardim%20Vera%20Cruz(Zona%20Leste)%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2008330-130!5e0!3m2!1spt-BR!2sbr!4v1706283273552!5m2!1spt-BR!2sbr"
           width="90%"
-          height="200px"
+          height="100px"
           allowfullscreen=""
           loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"
