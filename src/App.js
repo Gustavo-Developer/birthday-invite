@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
     <div style={{display: "hidden"}}>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EEhGLRl--LE?si=Qpu5SUTrRsdHgYiz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen />
+    <iframe width="560" height="auto" src="https://www.youtube.com/embed/EEhGLRl--LE?si=Qpu5SUTrRsdHgYiz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen />
     </div> 
     <div className="gradient-border content" id="box">
         <img
